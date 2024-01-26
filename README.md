@@ -12,6 +12,4 @@ To get started with this experimental application, please follow the steps below
 3. Install the necessary dependencies by running `npm install`.
 4. Start the application by executing `npm start`. -->
 
-For more detailed instructions, please refer to the documentation in the `docs` folder.
-
-
+For more detailed instructions, please refer to the documentation in the `docs` folder
