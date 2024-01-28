@@ -13,3 +13,5 @@ To get started with this experimental application, please follow the steps below
 4. Start the application by executing `npm start`. -->
 
 For more detailed instructions, please refer to the documentation in the `docs` folder
+
+every time you make a change to the code, you need to run `npm run build` to compile the code into a single file. Then you can run `npm start` to start the application.
